@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Random image light box\n"
+"POT-Creation-Date: 2020-10-17 23:50+0800\n"
+"PO-Revision-Date: 2020-10-17 23:50+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/rilb-register.php:44
+msgid "These tables could not be created on installation "
+msgstr ""
+
+#: ../classes/rilb-register.php:96 ../classes/rilb-register.php:97
+msgid "Random image"
+msgstr ""
+
+#: ../classes/rilb-register.php:110 ../pages/image-management-add.php:22
+#: ../pages/image-management-edit.php:37
+msgid "Please enter the image path."
+msgstr ""
+
+#: ../classes/rilb-register.php:111 ../pages/image-management-add.php:32
+#: ../pages/image-management-edit.php:47
+msgid "Please enter the image group."
+msgstr ""
+
+#: ../classes/rilb-register.php:112
+msgid "Please enter thumbnail image width."
+msgstr ""
+
+#: ../classes/rilb-register.php:113
+msgid "Please input numeric and letters only."
+msgstr ""
+
+#: ../classes/rilb-register.php:114
+msgid "Do you want to delete this record?"
+msgstr ""
+
+#: ../classes/rilb-register.php:130 ../classes/rilb-register.php:131
+#: ../pages/image-management-show.php:31
+msgid "Random image light box"
+msgstr ""
+
+#: ../classes/rilb-register.php:183 ../pages/image-management-show.php:42
+#: ../pages/image-management-show.php:50
+msgid "Title"
+msgstr ""
+
+#: ../classes/rilb-register.php:187 ../pages/image-management-add.php:137
+#: ../pages/image-management-edit.php:150
+msgid "Image group"
+msgstr ""
+
+#: ../classes/rilb-register.php:207
+msgid "Folder"
+msgstr ""
+
+#: ../classes/rilb-register.php:212 ../pages/image-management-add.php:128
+#: ../pages/image-management-edit.php:138
+msgid "Thumbnail width"
+msgstr ""
+
+#: ../pages/image-management-add.php:42
+msgid "New image details was successfully added."
+msgstr ""
+
+#: ../pages/image-management-add.php:45 ../pages/image-management-edit.php:61
+msgid "Oops, something went wrong. try again."
+msgstr ""
+
+#: ../pages/image-management-add.php:65 ../pages/image-management-edit.php:73
+msgid "Click here"
+msgstr ""
+
+#: ../pages/image-management-add.php:65 ../pages/image-management-edit.php:73
+msgid "to view the details"
+msgstr ""
+
+#: ../pages/image-management-add.php:116
+msgid "Add image"
+msgstr ""
+
+#: ../pages/image-management-add.php:119
+#: ../pages/image-management-edit.php:128
+msgid "Image path (URL)"
+msgstr ""
+
+#: ../pages/image-management-add.php:122
+#: ../pages/image-management-edit.php:131
+msgid "Where is the image located on the internet. Thumbnail image."
+msgstr ""
+
+#: ../pages/image-management-add.php:124
+#: ../pages/image-management-edit.php:134
+msgid "Image title"
+msgstr ""
+
+#: ../pages/image-management-add.php:126
+#: ../pages/image-management-edit.php:136
+msgid "Enter title for your image."
+msgstr ""
+
+#: ../pages/image-management-add.php:130
+#: ../pages/image-management-edit.php:140
+msgid "Please enter the thumbnail width (Optional)."
+msgstr ""
+
+#: ../pages/image-management-add.php:132
+#: ../pages/image-management-edit.php:142
+msgid "Image path (Optional)"
+msgstr ""
+
+#: ../pages/image-management-add.php:135
+#: ../pages/image-management-edit.php:145
+msgid "Where is the image located on the internet. Big image."
+msgstr ""
+
+#: ../pages/image-management-add.php:139
+#: ../pages/image-management-edit.php:152
+msgid "Select"
+msgstr ""
+
+#: ../pages/image-management-add.php:156
+#: ../pages/image-management-edit.php:175
+msgid "This is to group the images. Select your slideshow group."
+msgstr ""
+
+#: ../pages/image-management-add.php:158
+#: ../pages/image-management-edit.php:177
+msgid "Display"
+msgstr ""
+
+#: ../pages/image-management-add.php:163
+#: ../pages/image-management-edit.php:182
+msgid "Do you want the image to show in the frontend?"
+msgstr ""
+
+#: ../pages/image-management-add.php:170
+#: ../pages/image-management-edit.php:187
+msgid "Submit"
+msgstr ""
+
+#: ../pages/image-management-add.php:171
+#: ../pages/image-management-edit.php:188
+msgid "Cancel"
+msgstr ""
+
+#: ../pages/image-management-add.php:172
+#: ../pages/image-management-edit.php:189
+#: ../pages/image-management-show.php:99
+msgid "Help"
+msgstr ""
+
+#: ../pages/image-management-edit.php:11 ../pages/image-management-show.php:14
+msgid "Oops, selected details doesnt exist"
+msgstr ""
+
+#: ../pages/image-management-edit.php:58
+msgid "Image details was successfully updated."
+msgstr ""
+
+#: ../pages/image-management-edit.php:125
+msgid "Update image"
+msgstr ""
+
+#: ../pages/image-management-show.php:21
+msgid "Selected record was successfully deleted."
+msgstr ""
+
+#: ../pages/image-management-show.php:32 ../pages/image-management-show.php:95
+msgid "Add New"
+msgstr ""
+
+#: ../pages/image-management-show.php:43 ../pages/image-management-show.php:51
+msgid "Image"
+msgstr ""
+
+#: ../pages/image-management-show.php:44 ../pages/image-management-show.php:52
+msgid "Group"
+msgstr ""
+
+#: ../pages/image-management-show.php:45 ../pages/image-management-show.php:53
+msgid "Status"
+msgstr ""
+
+#: ../pages/image-management-show.php:65
+msgid "Edit"
+msgstr ""
+
+#: ../pages/image-management-show.php:66
+msgid "Delete"
+msgstr ""
+
+#: ../pages/image-management-show.php:85
+msgid "No records available"
+msgstr ""
+
+#: ../pages/image-management-show.php:97
+msgid "Short Code"
+msgstr ""
